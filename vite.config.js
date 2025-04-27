@@ -7,7 +7,7 @@ import tailwindcss from "@tailwindcss/vite";
 import mkcert from "vite-plugin-mkcert";
 
 export default defineConfig({
-  base: '/G.S-AGATEKO5/',
+  base: '/GS-RUBINGO---TSS3/',
   plugins: [vue(), vueDevTools(), tailwindcss(), mkcert()],
   resolve: {
     alias: {
